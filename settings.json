@@ -1,0 +1,7 @@
+{
+  "solidity.defaultCompiler": "localNodeModule",
+  "solidity.remappings": [
+    "@chainlink/=/Users/zion/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@0.2.2",
+    "@openzeppelin/=/Users/zion/.brownie/packages/OpenZeppelin/openzeppelin-contracts@4.4.0"
+  ]
+}
